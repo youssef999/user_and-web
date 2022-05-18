@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900896206432",
+    "project_id": "xpo-alsharjah-final",
+    "storage_bucket": "xpo-alsharjah-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900896206432:android:82e90c92ad49e2180bdd05",
+        "android_client_info": {
+          "package_name": "com.xpo.alsharjah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900896206432-bdqbi48f0v082e75p4b8gqo5558k9si9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGOdGsyrxSw8reQll0-8MkrwXezAVUrjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900896206432-bdqbi48f0v082e75p4b8gqo5558k9si9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
