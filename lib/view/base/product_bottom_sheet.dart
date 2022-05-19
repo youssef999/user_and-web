@@ -150,7 +150,6 @@ class _ProductBottomSheetState extends State<ProductBottomSheet> {
                       ),
                       onTap:(){
 
-
                         print("ooo"+'${widget.isCampaign ? Get.find<SplashController>().configModel.baseUrls.campaignImageUrl
                             : Get.find<SplashController>().configModel.baseUrls.productImageUrl}/${widget.product.image}');
                         Navigator.push(
